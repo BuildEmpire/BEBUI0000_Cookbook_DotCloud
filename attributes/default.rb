@@ -1,0 +1,1 @@
+default['cookbook_dotcloud']['whatever'] = 'whatever'
