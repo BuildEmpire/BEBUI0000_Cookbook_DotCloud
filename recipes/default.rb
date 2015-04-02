@@ -1,2 +1,2 @@
 include_recipe "python"
-python_pip "dotcloud"
+python_pip "dotcloudng"
